@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this section you saw you to wrangle and clean some data in Pandas! This will be a baseline skill that you will use consistently in your work whether its doing sanity checks, cleaning messy data or transforming raw datasets into useful aggregates and views. Having an understanding of the format of your data is essential to critically thinking about how you can manipulate and shape it into new and interesting forms.
+In this section you saw how to wrangle and clean some data in Pandas! This will be a baseline skill that you will use consistently in your work whether it's doing sanity checks, cleaning messy data or transforming raw datasets into useful aggregates and views. Having an understanding of the format of your data is essential to critically thinking about how you can manipulate and shape it into new and interesting forms.
 
 ## Objectives
 
@@ -417,4 +417,4 @@ print('Top 5 Values after:\n', df.Cabin.value_counts(normalize=True).reset_index
 
 ## Summary
 
-In this lesson you started practicing essential ETL skills that you will use throughout your data work to transform and wrangle data into useful forms.
+In this lesson, you started practicing essential ETL skills that you will use throughout your data work to transform and wrangle data into useful forms.

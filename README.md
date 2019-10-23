@@ -1,5 +1,5 @@
 
-# Section Recap
+# Data Cleaning in Pandas - Recap
 
 ## Introduction
 

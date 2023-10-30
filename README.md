@@ -1,9 +1,8 @@
-
 # Data Cleaning in Pandas - Recap
 
 ## Introduction
 
-In this section you saw how to wrangle and clean data in Pandas! This will be a baseline skill that you will use consistently in your work whether it's doing sanity checks, cleaning messy data or transforming raw datasets into useful aggregates and views. Having an understanding of the format of your data is essential to critically thinking about how you can manipulate and shape it into new and interesting forms.
+In this section you saw how to wrangle and clean data in Pandas. This will be a baseline skill that you will use consistently in your work whether it's doing sanity checks, cleaning messy data or transforming raw datasets into useful aggregates and views. Having an understanding of the format of your data is essential to critically thinking about how you can manipulate and shape it into new and interesting forms.
 
 
 ## Lambda functions
@@ -374,7 +373,9 @@ pivoted.plot(kind='barh')
 
 
 
+    
 ![png](index_files/index_11_1.png)
+    
 
 
 ## Missing data
